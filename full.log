@@ -1,0 +1,581 @@
+[hourly] h=48 m=24: kept 414 series (dropped 0 short, 0 degenerate)
+[hourly] naive2 val: 2.5s (0 non-finite values patched)
+[hourly] naive2 test: 2.5s (0 non-finite values patched)
+[hourly] autotheta val: 6.2s (0 non-finite values patched)
+[hourly] autotheta test: 5.5s (0 non-finite values patched)
+[hourly] autoets val: 24.0s (0 non-finite values patched)
+[hourly] autoets test: 25.3s (0 non-finite values patched)
+[hourly] autoarima val: 1691.1s (0 non-finite values patched)
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1867: UserWarning: Stepwise search was stopped early due to reaching the model number limit: nmodels=94
+  warnings.warn(
+[hourly] autoarima test: 1147.1s (0 non-finite values patched)
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights:   0%|          | 0/131 [00:00<?, ?it/s]Loading weights: 100%|██████████| 131/131 [00:00<00:00, 7061.93it/s]
+[hourly] chronos-t5-small val: 148.6s (0 non-finite values patched)
+[hourly] chronos-t5-small test: 114.5s (0 non-finite values patched)
+Loading weights:   0%|          | 0/257 [00:00<?, ?it/s]Loading weights: 100%|██████████| 257/257 [00:00<00:00, 7111.05it/s]
+[hourly] chronos-t5-base val: 469.4s (0 non-finite values patched)
+[hourly] chronos-t5-base test: 381.8s (0 non-finite values patched)
+Loading weights:   0%|          | 0/509 [00:00<?, ?it/s]Loading weights: 100%|██████████| 509/509 [00:00<00:00, 7882.95it/s]
+[hourly] chronos-t5-large val: 1283.3s (0 non-finite values patched)
+[hourly] chronos-t5-large test: 1270.9s (0 non-finite values patched)
+Loading weights:   0%|          | 0/269 [00:00<?, ?it/s]Loading weights: 100%|██████████| 269/269 [00:00<00:00, 6965.86it/s]
+[hourly] chronos-bolt-base val: 5.7s (0 non-finite values patched)
+[hourly] chronos-bolt-base test: 2.8s (0 non-finite values patched)
+[hourly] timesfm-2.5-200m val: 8.9s (0 non-finite values patched)
+[hourly] timesfm-2.5-200m test: 7.1s (0 non-finite values patched)
+[daily] h=14 m=1: kept 4226 series (dropped 0 short, 1 degenerate)
+[daily] naive2 val: 2.5s (0 non-finite values patched)
+[daily] naive2 test: 1.6s (0 non-finite values patched)
+[daily] autotheta val: 18.5s (0 non-finite values patched)
+[daily] autotheta test: 19.7s (0 non-finite values patched)
+[daily] autoets val: 7.3s (0 non-finite values patched)
+[daily] autoets test: 7.1s (0 non-finite values patched)
+[daily] autoarima val: 33.9s (0 non-finite values patched)
+[daily] autoarima test: 38.4s (0 non-finite values patched)
+Loading weights:   0%|          | 0/131 [00:00<?, ?it/s]Loading weights: 100%|██████████| 131/131 [00:00<00:00, 8302.04it/s]
+[daily] chronos-t5-small val: 465.5s (0 non-finite values patched)
+[daily] chronos-t5-small test: 465.0s (0 non-finite values patched)
+Loading weights:   0%|          | 0/257 [00:00<?, ?it/s]Loading weights: 100%|██████████| 257/257 [00:00<00:00, 6773.34it/s]
+[daily] chronos-t5-base val: 1725.8s (0 non-finite values patched)
+[daily] chronos-t5-base test: 1652.2s (0 non-finite values patched)
+Loading weights:   0%|          | 0/509 [00:00<?, ?it/s]Loading weights: 100%|██████████| 509/509 [00:00<00:00, 7491.04it/s]
+[daily] chronos-t5-large val: 5721.9s (0 non-finite values patched)
+[daily] chronos-t5-large test: 5743.1s (0 non-finite values patched)
+Loading weights:   0%|          | 0/269 [00:00<?, ?it/s]Loading weights: 100%|██████████| 269/269 [00:00<00:00, 7374.73it/s]
+[daily] chronos-bolt-base val: 31.8s (0 non-finite values patched)
+[daily] chronos-bolt-base test: 30.0s (0 non-finite values patched)
+[daily] timesfm-2.5-200m val: 70.0s (0 non-finite values patched)
+[daily] timesfm-2.5-200m test: 68.1s (0 non-finite values patched)
+[weekly] h=13 m=1: kept 359 series (dropped 0 short, 0 degenerate)
+[weekly] naive2 val: 2.2s (0 non-finite values patched)
+[weekly] naive2 test: 1.3s (0 non-finite values patched)
+[weekly] autotheta val: 5.4s (0 non-finite values patched)
+[weekly] autotheta test: 4.4s (0 non-finite values patched)
+[weekly] autoets val: 1.8s (0 non-finite values patched)
+[weekly] autoets test: 1.8s (0 non-finite values patched)
+[weekly] autoarima val: 7.8s (0 non-finite values patched)
+[weekly] autoarima test: 7.9s (0 non-finite values patched)
+Loading weights:   0%|          | 0/131 [00:00<?, ?it/s]Loading weights: 100%|██████████| 131/131 [00:00<00:00, 5994.35it/s]
+[weekly] chronos-t5-small val: 40.5s (0 non-finite values patched)
+[weekly] chronos-t5-small test: 39.0s (0 non-finite values patched)
+Loading weights:   0%|          | 0/257 [00:00<?, ?it/s]Loading weights: 100%|██████████| 257/257 [00:00<00:00, 8407.12it/s]
+[weekly] chronos-t5-base val: 145.8s (0 non-finite values patched)
+[weekly] chronos-t5-base test: 142.7s (0 non-finite values patched)
+Loading weights:   0%|          | 0/509 [00:00<?, ?it/s]Loading weights: 100%|██████████| 509/509 [00:00<00:00, 7152.89it/s]
+[weekly] chronos-t5-large val: 464.2s (0 non-finite values patched)
+[weekly] chronos-t5-large test: 460.0s (0 non-finite values patched)
+Loading weights:   0%|          | 0/269 [00:00<?, ?it/s]Loading weights: 100%|██████████| 269/269 [00:00<00:00, 7499.99it/s]
+[weekly] chronos-bolt-base val: 5.2s (0 non-finite values patched)
+[weekly] chronos-bolt-base test: 2.4s (0 non-finite values patched)
+[weekly] timesfm-2.5-200m val: 7.9s (0 non-finite values patched)
+[weekly] timesfm-2.5-200m test: 6.2s (0 non-finite values patched)
+[monthly] h=18 m=12: kept 47987 series (dropped 13 short, 0 degenerate)
+[monthly] naive2 val: 4.1s (0 non-finite values patched)
+[monthly] naive2 test: 3.7s (0 non-finite values patched)
+[monthly] autotheta val: 130.8s (0 non-finite values patched)
+[monthly] autotheta test: 146.3s (0 non-finite values patched)
+[monthly] autoets val: 382.1s (0 non-finite values patched)
+[monthly] autoets test: 416.2s (0 non-finite values patched)
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1867: UserWarning: Stepwise search was stopped early due to reaching the model number limit: nmodels=94
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1867: UserWarning: Stepwise search was stopped early due to reaching the model number limit: nmodels=94
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1867: UserWarning: Stepwise search was stopped early due to reaching the model number limit: nmodels=94
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1867: UserWarning: Stepwise search was stopped early due to reaching the model number limit: nmodels=94
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1867: UserWarning: Stepwise search was stopped early due to reaching the model number limit: nmodels=94
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+[monthly] autoarima val: 5524.4s (0 non-finite values patched)
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1867: UserWarning: Stepwise search was stopped early due to reaching the model number limit: nmodels=94
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1867: UserWarning: Stepwise search was stopped early due to reaching the model number limit: nmodels=94
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1867: UserWarning: Stepwise search was stopped early due to reaching the model number limit: nmodels=94
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1867: UserWarning: Stepwise search was stopped early due to reaching the model number limit: nmodels=94
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+[monthly] autoarima test: 8540.9s (0 non-finite values patched)
+Loading weights:   0%|          | 0/131 [00:00<?, ?it/s]Loading weights: 100%|██████████| 131/131 [00:00<00:00, 6543.45it/s]
+.venv/bin/python: can't open file '/tmp/run_full.py': [Errno 2] No such file or directory
+[hourly] h=48 m=24: kept 414 series (dropped 0 short, 0 degenerate)
+[hourly] naive2: loaded from cache
+[hourly] autotheta: loaded from cache
+[hourly] autoets: loaded from cache
+[hourly] autoarima: loaded from cache
+[hourly] chronos-t5-small: loaded from cache
+[hourly] chronos-t5-base: loaded from cache
+[hourly] chronos-t5-large: loaded from cache
+[hourly] chronos-bolt-base: loaded from cache
+[hourly] timesfm-2.5-200m: loaded from cache
+[daily] h=14 m=1: kept 4226 series (dropped 0 short, 1 degenerate)
+[daily] naive2: loaded from cache
+[daily] autotheta: loaded from cache
+[daily] autoets: loaded from cache
+[daily] autoarima: loaded from cache
+[daily] chronos-t5-small: loaded from cache
+[daily] chronos-t5-base: loaded from cache
+[daily] chronos-t5-large: loaded from cache
+[daily] chronos-bolt-base: loaded from cache
+[daily] timesfm-2.5-200m: loaded from cache
+[weekly] h=13 m=1: kept 359 series (dropped 0 short, 0 degenerate)
+[weekly] naive2: loaded from cache
+[weekly] autotheta: loaded from cache
+[weekly] autoets: loaded from cache
+[weekly] autoarima: loaded from cache
+[weekly] chronos-t5-small: loaded from cache
+[weekly] chronos-t5-base: loaded from cache
+[weekly] chronos-t5-large: loaded from cache
+[weekly] chronos-bolt-base: loaded from cache
+[weekly] timesfm-2.5-200m: loaded from cache
+[monthly] h=18 m=12: kept 47987 series (dropped 13 short, 0 degenerate)
+[monthly] naive2: loaded from cache
+[monthly] autotheta: loaded from cache
+[monthly] autoets: loaded from cache
+[monthly] autoarima: loaded from cache
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights:   0%|          | 0/131 [00:00<?, ?it/s]Loading weights: 100%|██████████| 131/131 [00:00<00:00, 5504.17it/s]
+[monthly] chronos-t5-small val: 5356.4s (0 non-finite values patched)
+[monthly] chronos-t5-small test: 5181.9s (0 non-finite values patched)
+Loading weights:   0%|          | 0/257 [00:00<?, ?it/s]Loading weights: 100%|██████████| 257/257 [00:00<00:00, 7419.82it/s]
+[monthly] chronos-t5-base val: 16985.9s (0 non-finite values patched)
+[monthly] chronos-t5-base test: 20957.1s (0 non-finite values patched)
+Loading weights:   0%|          | 0/509 [00:00<?, ?it/s]Loading weights: 100%|██████████| 509/509 [00:00<00:00, 6421.91it/s]
+[monthly] chronos-t5-large val: 54982.6s (0 non-finite values patched)
+[monthly] chronos-t5-large test: 58473.0s (0 non-finite values patched)
+Loading weights:   0%|          | 0/269 [00:00<?, ?it/s]Loading weights: 100%|██████████| 269/269 [00:00<00:00, 6971.07it/s]
+[monthly] chronos-bolt-base val: 274.8s (0 non-finite values patched)
+[monthly] chronos-bolt-base test: 273.9s (0 non-finite values patched)
+[monthly] timesfm-2.5-200m val: 812.3s (0 non-finite values patched)
+[monthly] timesfm-2.5-200m test: 810.6s (0 non-finite values patched)
+[quarterly] h=8 m=4: kept 20851 series (dropped 3149 short, 0 degenerate)
+[quarterly] naive2 val: 3.2s (0 non-finite values patched)
+[quarterly] naive2 test: 2.2s (0 non-finite values patched)
+[quarterly] autotheta val: 14.2s (0 non-finite values patched)
+[quarterly] autotheta test: 16.1s (0 non-finite values patched)
+[quarterly] autoets val: 65.3s (0 non-finite values patched)
+[quarterly] autoets test: 70.7s (0 non-finite values patched)
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+[quarterly] autoarima val: 406.9s (0 non-finite values patched)
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+/Users/ramakrushna/Downloads/IJF/IJF-handoff/IJF/.venv/lib/python3.12/site-packages/statsforecast/arima.py:1504: UserWarning: Having 3 or more differencing operations is not recommended. Please consider reducing the total number of differences.
+  warnings.warn(
+[quarterly] autoarima test: 434.8s (0 non-finite values patched)
+Loading weights:   0%|          | 0/131 [00:00<?, ?it/s]Loading weights: 100%|██████████| 131/131 [00:00<00:00, 5111.01it/s]
+[quarterly] chronos-t5-small val: 897.8s (0 non-finite values patched)
+[quarterly] chronos-t5-small test: 914.4s (0 non-finite values patched)
+Loading weights:   0%|          | 0/257 [00:00<?, ?it/s]Loading weights: 100%|██████████| 257/257 [00:00<00:00, 6202.31it/s]
+[quarterly] chronos-t5-base val: 2916.5s (0 non-finite values patched)
+[quarterly] chronos-t5-base test: 3008.1s (0 non-finite values patched)
+Loading weights:   0%|          | 0/509 [00:00<?, ?it/s]Loading weights: 100%|██████████| 509/509 [00:00<00:00, 7302.60it/s]
+[quarterly] chronos-t5-large val: 9863.3s (0 non-finite values patched)
+[hourly] h=48 m=24: kept 414 series (dropped 0 short, 0 degenerate)
+[hourly] naive2: loaded from cache
+[hourly] autotheta: loaded from cache
+[hourly] autoets: loaded from cache
+[hourly] autoarima: loaded from cache
+[hourly] chronos-t5-small: loaded from cache
+[hourly] chronos-t5-base: loaded from cache
+[hourly] chronos-t5-large: loaded from cache
+[hourly] chronos-bolt-base: loaded from cache
+[hourly] timesfm-2.5-200m: loaded from cache
+[daily] h=14 m=1: kept 4226 series (dropped 0 short, 1 degenerate)
+[daily] naive2: loaded from cache
+[daily] autotheta: loaded from cache
+[daily] autoets: loaded from cache
+[daily] autoarima: loaded from cache
+[daily] chronos-t5-small: loaded from cache
+[daily] chronos-t5-base: loaded from cache
+[daily] chronos-t5-large: loaded from cache
+[daily] chronos-bolt-base: loaded from cache
+[daily] timesfm-2.5-200m: loaded from cache
+[weekly] h=13 m=1: kept 359 series (dropped 0 short, 0 degenerate)
+[weekly] naive2: loaded from cache
+[weekly] autotheta: loaded from cache
+[weekly] autoets: loaded from cache
+[weekly] autoarima: loaded from cache
+[weekly] chronos-t5-small: loaded from cache
+[weekly] chronos-t5-base: loaded from cache
+[weekly] chronos-t5-large: loaded from cache
+[weekly] chronos-bolt-base: loaded from cache
+[weekly] timesfm-2.5-200m: loaded from cache
+[monthly] h=18 m=12: kept 47987 series (dropped 13 short, 0 degenerate)
+[monthly] naive2: loaded from cache
+[monthly] autotheta: loaded from cache
+[monthly] autoets: loaded from cache
+[monthly] autoarima: loaded from cache
+[monthly] chronos-t5-small: loaded from cache
+[monthly] chronos-t5-base: loaded from cache
+[monthly] chronos-t5-large: loaded from cache
+[monthly] chronos-bolt-base: loaded from cache
+[monthly] timesfm-2.5-200m: loaded from cache
+[quarterly] h=8 m=4: kept 20851 series (dropped 3149 short, 0 degenerate)
+[quarterly] naive2: loaded from cache
+[quarterly] autotheta: loaded from cache
+[quarterly] autoets: loaded from cache
+[quarterly] autoarima: loaded from cache
+[quarterly] chronos-t5-small: loaded from cache
+[quarterly] chronos-t5-base: loaded from cache
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights:   0%|          | 0/509 [00:00<?, ?it/s]Loading weights: 100%|██████████| 509/509 [00:00<00:00, 6243.73it/s]
+[quarterly] chronos-t5-large test: 19642.6s (0 non-finite values patched)
+Loading weights:   0%|          | 0/269 [00:00<?, ?it/s]Loading weights: 100%|██████████| 269/269 [00:00<00:00, 6300.95it/s]
+[quarterly] chronos-bolt-base val: 575.5s (0 non-finite values patched)
+[quarterly] chronos-bolt-base test: 95.7s (0 non-finite values patched)
+[quarterly] timesfm-2.5-200m val: 808.8s (0 non-finite values patched)
+[quarterly] timesfm-2.5-200m test: 447.8s (0 non-finite values patched)
+[yearly] h=6 m=1: kept 7311 series (dropped 15689 short, 0 degenerate)
+[yearly] naive2 val: 6.0s (0 non-finite values patched)
+[yearly] naive2 test: 2.0s (0 non-finite values patched)
+[yearly] autotheta val: 4.1s (0 non-finite values patched)
+[yearly] autotheta test: 4.7s (0 non-finite values patched)
+[yearly] autoets val: 4.3s (0 non-finite values patched)
+[yearly] autoets test: 4.6s (0 non-finite values patched)
+[yearly] autoarima val: 91.2s (0 non-finite values patched)
+[yearly] autoarima test: 111.3s (0 non-finite values patched)
+Loading weights:   0%|          | 0/131 [00:00<?, ?it/s]Loading weights: 100%|██████████| 131/131 [00:00<00:00, 5686.28it/s]
+[yearly] chronos-t5-small val: 428.0s (0 non-finite values patched)
+[yearly] chronos-t5-small test: 276.4s (0 non-finite values patched)
+Loading weights:   0%|          | 0/257 [00:00<?, ?it/s]Loading weights: 100%|██████████| 257/257 [00:00<00:00, 5662.29it/s]
+[yearly] chronos-t5-base val: 844.7s (0 non-finite values patched)
+[yearly] chronos-t5-base test: 765.6s (0 non-finite values patched)
+Loading weights:   0%|          | 0/509 [00:00<?, ?it/s]Loading weights: 100%|██████████| 509/509 [00:00<00:00, 5912.62it/s]
+[yearly] chronos-t5-large val: 3979.4s (0 non-finite values patched)
+[yearly] chronos-t5-large test: 2593.8s (0 non-finite values patched)
+Loading weights:   0%|          | 0/269 [00:00<?, ?it/s]Loading weights: 100%|██████████| 269/269 [00:00<00:00, 6688.53it/s]
+[yearly] chronos-bolt-base val: 20.6s (0 non-finite values patched)
+[yearly] chronos-bolt-base test: 18.0s (0 non-finite values patched)
+[yearly] timesfm-2.5-200m val: 122.7s (0 non-finite values patched)
+[yearly] timesfm-2.5-200m test: 117.9s (0 non-finite values patched)
+
+Saved outputs under results/full1
+Wrote summary.csv, ranks.csv, summary.md, figs/ under results/full1

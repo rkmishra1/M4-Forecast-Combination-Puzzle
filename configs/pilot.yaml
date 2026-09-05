@@ -1,0 +1,36 @@
+run_id: pilot1
+
+# --- data
+frequencies: [hourly, daily, weekly, monthly, quarterly, yearly]
+n_series: 150          # per frequency (deterministic subsample); null = all
+seed: 42
+min_context: 32        # require len(validation context) >= 32 (TimesFM minimum)
+data_dir: data
+
+# --- models in the combination pool
+models:
+  - naive2             # seasonal naive benchmark (M4 reference)
+  - autotheta          # classical: Theta
+  - autoets            # classical: ETS
+  - autoarima          # classical: ARIMA
+  - chronos-t5-small   # foundation: Chronos-T5 20M
+  - chronos-t5-base    # foundation: Chronos-T5 200M
+  - timesfm-2.5-200m   # foundation: TimesFM 2.5 200M
+
+# --- combination rules to evaluate
+combinations:
+  - equal
+  - median
+  - trim1_equal
+  - inv_error_global
+  - inv_error_series
+  - inv_rank_series
+  - nnls_series
+  - best_single_val
+  - oracle_best
+
+# --- runtime
+device: cpu            # mps is slower than CPU here (per-token GPU syncs)
+batch_size: 32         # chronos inference batch (>32 collapses ~10x on this CPU)
+context_len: 512       # max context fed to foundation models
+results_dir: results/pilot1

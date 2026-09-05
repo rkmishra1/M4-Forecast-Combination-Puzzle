@@ -1,0 +1,8 @@
+rule,mean_tv,mean_neff
+best_single_val,0.8889,1.0
+inv_error_global,0.0253,8.9691
+inv_error_series,0.124,8.4871
+inv_rank_global,0.3147,6.7542
+inv_rank_series,0.3147,6.7542
+nnls_series,0.7799,1.7888
+trim1_equal,0.1111,8.0

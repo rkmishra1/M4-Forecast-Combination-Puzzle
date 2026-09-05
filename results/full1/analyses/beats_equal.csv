@@ -1,0 +1,10 @@
+rule,pct_beats_equal,mean_mase_ratio
+equal,0.0,1.0
+median,50.5,1.0047
+trim1_equal,52.2,0.9991
+inv_error_global,56.2,0.9956
+inv_error_series,54.2,0.9971
+inv_rank_global,50.9,1.0066
+inv_rank_series,51.7,1.0089
+nnls_series,46.7,1.0929
+best_single_val,44.5,1.1441

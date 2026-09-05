@@ -1,0 +1,26 @@
+# manuscript (kept out of the public repo by author choice)
+paper/
+
+# python environment
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# raw M4 data (re-downloadable via src/fcc/data.py)
+data/
+
+# per-forecast caches (regenerable; packaged in the results zip)
+results/*/cache/
+
+# files above GitHub's 100 MB limit (kept in the results zip / releases)
+results/full1/weights.csv
+results/full1/metrics_per_series.csv
+
+# packaged artifacts (better hosted as GitHub Release assets)
+*.zip
+
+# transient scratch logs
+analyses.log
+dmfix.log
+figs.log

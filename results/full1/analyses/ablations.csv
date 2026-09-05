@@ -1,0 +1,11 @@
+pool,rule,mase,smape,rmsse,owa
+classical(k=4),median,1.2939,0.1141,1.099,0.7806
+classical(k=4),inv_error_series,1.2944,0.1143,1.0974,0.7816
+classical(k=4),trim1_equal,1.2944,0.1148,1.0979,0.7833
+classical(k=4),inv_rank_series,1.2973,0.1146,1.1003,0.7836
+classical(k=4),equal,1.3153,0.1153,1.1143,0.7912
+foundation(k=5),inv_rank_series,1.3104,0.1175,1.1223,0.7975
+foundation(k=5),inv_error_series,1.3096,0.1176,1.1216,0.7976
+foundation(k=5),trim1_equal,1.3118,0.1178,1.1235,0.7988
+foundation(k=5),equal,1.3117,0.1179,1.1231,0.7992
+foundation(k=5),median,1.3177,0.1186,1.1291,0.8034

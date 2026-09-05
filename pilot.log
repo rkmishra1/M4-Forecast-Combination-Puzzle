@@ -1,0 +1,100 @@
+[hourly] h=48 m=24: kept 150 series (dropped 0 short, 0 degenerate)
+[hourly] naive2: loaded from cache
+[hourly] autotheta: loaded from cache
+[hourly] autoets: loaded from cache
+[hourly] autoarima: loaded from cache
+[hourly] chronos-t5-small: loaded from cache
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights:   0%|          | 0/257 [00:00<?, ?it/s]Loading weights: 100%|██████████| 257/257 [00:00<00:00, 11335.48it/s]
+[hourly] chronos-t5-base val: 187.0s (0 non-finite values patched)
+[hourly] chronos-t5-base test: 168.6s (0 non-finite values patched)
+[hourly] timesfm-2.5-200m val: 6.3s (0 non-finite values patched)
+[hourly] timesfm-2.5-200m test: 4.7s (0 non-finite values patched)
+[daily] h=14 m=1: kept 150 series (dropped 0 short, 0 degenerate)
+[daily] naive2 val: 2.3s (0 non-finite values patched)
+[daily] naive2 test: 1.6s (0 non-finite values patched)
+[daily] autotheta val: 2.0s (0 non-finite values patched)
+[daily] autotheta test: 2.4s (0 non-finite values patched)
+[daily] autoets val: 1.8s (0 non-finite values patched)
+[daily] autoets test: 2.9s (0 non-finite values patched)
+[daily] autoarima val: 5.1s (0 non-finite values patched)
+[daily] autoarima test: 3.4s (0 non-finite values patched)
+Loading weights:   0%|          | 0/131 [00:00<?, ?it/s]Loading weights: 100%|██████████| 131/131 [00:00<00:00, 6790.84it/s]
+[daily] chronos-t5-small val: 20.6s (0 non-finite values patched)
+[daily] chronos-t5-small test: 17.1s (0 non-finite values patched)
+Loading weights:   0%|          | 0/257 [00:00<?, ?it/s]Loading weights: 100%|██████████| 257/257 [00:00<00:00, 7156.37it/s]
+[daily] chronos-t5-base val: 69.1s (0 non-finite values patched)
+[daily] chronos-t5-base test: 65.0s (0 non-finite values patched)
+[daily] timesfm-2.5-200m val: 6.4s (0 non-finite values patched)
+[daily] timesfm-2.5-200m test: 4.8s (0 non-finite values patched)
+[weekly] h=13 m=1: kept 150 series (dropped 0 short, 0 degenerate)
+[weekly] naive2 val: 2.1s (0 non-finite values patched)
+[weekly] naive2 test: 1.4s (0 non-finite values patched)
+[weekly] autotheta val: 2.9s (0 non-finite values patched)
+[weekly] autotheta test: 2.5s (0 non-finite values patched)
+[weekly] autoets val: 1.7s (0 non-finite values patched)
+[weekly] autoets test: 1.6s (0 non-finite values patched)
+[weekly] autoarima val: 4.1s (0 non-finite values patched)
+[weekly] autoarima test: 4.2s (0 non-finite values patched)
+Loading weights:   0%|          | 0/131 [00:00<?, ?it/s]Loading weights: 100%|██████████| 131/131 [00:00<00:00, 7185.13it/s]
+[weekly] chronos-t5-small val: 18.3s (0 non-finite values patched)
+[weekly] chronos-t5-small test: 16.4s (0 non-finite values patched)
+Loading weights:   0%|          | 0/257 [00:00<?, ?it/s]Loading weights: 100%|██████████| 257/257 [00:00<00:00, 6754.62it/s]
+[weekly] chronos-t5-base val: 86.9s (0 non-finite values patched)
+[weekly] chronos-t5-base test: 62.6s (0 non-finite values patched)
+[weekly] timesfm-2.5-200m val: 5.8s (0 non-finite values patched)
+[weekly] timesfm-2.5-200m test: 4.1s (0 non-finite values patched)
+[monthly] h=18 m=12: kept 150 series (dropped 0 short, 0 degenerate)
+[monthly] naive2 val: 1.8s (0 non-finite values patched)
+[monthly] naive2 test: 1.4s (0 non-finite values patched)
+[monthly] autotheta val: 1.8s (0 non-finite values patched)
+[monthly] autotheta test: 1.8s (0 non-finite values patched)
+[monthly] autoets val: 2.6s (0 non-finite values patched)
+[monthly] autoets test: 2.7s (0 non-finite values patched)
+[monthly] autoarima val: 30.0s (0 non-finite values patched)
+[monthly] autoarima test: 17.4s (0 non-finite values patched)
+Loading weights:   0%|          | 0/131 [00:00<?, ?it/s]Loading weights: 100%|██████████| 131/131 [00:00<00:00, 6607.90it/s]
+[monthly] chronos-t5-small val: 19.6s (0 non-finite values patched)
+[monthly] chronos-t5-small test: 18.1s (0 non-finite values patched)
+Loading weights:   0%|          | 0/257 [00:00<?, ?it/s]Loading weights: 100%|██████████| 257/257 [00:00<00:00, 7046.67it/s]
+[monthly] chronos-t5-base val: 66.1s (0 non-finite values patched)
+[monthly] chronos-t5-base test: 62.7s (0 non-finite values patched)
+[monthly] timesfm-2.5-200m val: 5.9s (0 non-finite values patched)
+[monthly] timesfm-2.5-200m test: 4.1s (0 non-finite values patched)
+[quarterly] h=8 m=4: kept 137 series (dropped 13 short, 0 degenerate)
+[quarterly] naive2 val: 1.7s (0 non-finite values patched)
+[quarterly] naive2 test: 1.4s (0 non-finite values patched)
+[quarterly] autotheta val: 1.5s (0 non-finite values patched)
+[quarterly] autotheta test: 1.5s (0 non-finite values patched)
+[quarterly] autoets val: 1.8s (0 non-finite values patched)
+[quarterly] autoets test: 1.8s (0 non-finite values patched)
+[quarterly] autoarima val: 4.4s (0 non-finite values patched)
+[quarterly] autoarima test: 4.8s (0 non-finite values patched)
+Loading weights:   0%|          | 0/131 [00:00<?, ?it/s]Loading weights: 100%|██████████| 131/131 [00:00<00:00, 7186.35it/s]
+[quarterly] chronos-t5-small val: 8.0s (0 non-finite values patched)
+[quarterly] chronos-t5-small test: 6.4s (0 non-finite values patched)
+Loading weights:   0%|          | 0/257 [00:00<?, ?it/s]Loading weights: 100%|██████████| 257/257 [00:00<00:00, 15974.39it/s]
+[quarterly] chronos-t5-base val: 21.5s (0 non-finite values patched)
+[quarterly] chronos-t5-base test: 20.7s (0 non-finite values patched)
+[quarterly] timesfm-2.5-200m val: 5.1s (0 non-finite values patched)
+[quarterly] timesfm-2.5-200m test: 3.9s (0 non-finite values patched)
+[yearly] h=6 m=1: kept 46 series (dropped 104 short, 0 degenerate)
+[yearly] naive2 val: 1.4s (0 non-finite values patched)
+[yearly] naive2 test: 1.4s (0 non-finite values patched)
+[yearly] autotheta val: 1.4s (0 non-finite values patched)
+[yearly] autotheta test: 1.4s (0 non-finite values patched)
+[yearly] autoets val: 1.4s (0 non-finite values patched)
+[yearly] autoets test: 1.4s (0 non-finite values patched)
+[yearly] autoarima val: 1.7s (0 non-finite values patched)
+[yearly] autoarima test: 1.6s (0 non-finite values patched)
+Loading weights:   0%|          | 0/131 [00:00<?, ?it/s]Loading weights: 100%|██████████| 131/131 [00:00<00:00, 17289.30it/s]
+[yearly] chronos-t5-small val: 2.8s (0 non-finite values patched)
+[yearly] chronos-t5-small test: 1.4s (0 non-finite values patched)
+Loading weights:   0%|          | 0/257 [00:00<?, ?it/s]Loading weights: 100%|██████████| 257/257 [00:00<00:00, 20476.73it/s]
+[yearly] chronos-t5-base val: 5.5s (0 non-finite values patched)
+[yearly] chronos-t5-base test: 4.3s (0 non-finite values patched)
+[yearly] timesfm-2.5-200m val: 2.6s (0 non-finite values patched)
+[yearly] timesfm-2.5-200m test: 1.3s (0 non-finite values patched)
+
+Saved outputs under results/pilot1
+Wrote summary.csv, ranks.csv, summary.md, figs/ under results/pilot1

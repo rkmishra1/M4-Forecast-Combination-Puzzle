@@ -1,0 +1,40 @@
+run_id: full1
+
+# --- data: FULL M4 (all 100k series; ~93.5k after integrity/min-context filters)
+frequencies: [hourly, daily, weekly, monthly, quarterly, yearly]
+n_series: null          # null = use all series
+seed: 42
+min_context: 32
+data_dir: data
+
+# --- model pool (9 models: 4 classical + 5 foundation)
+models:
+  - naive2
+  - autotheta
+  - autoets
+  - autoarima
+  - chronos-t5-small
+  - chronos-t5-base
+  - chronos-t5-large
+  - chronos-bolt-base
+  - timesfm-2.5-200m
+
+# --- combination rules
+combinations:
+  - equal
+  - median
+  - trim1_equal
+  - inv_error_global
+  - inv_error_series
+  - inv_rank_global
+  - inv_rank_series
+  - nnls_series
+  - best_single_val
+  - oracle_best
+
+# --- runtime: tune for the machine
+device: cpu            # mps measured slower than CPU on M5 Pro (per-token GPU syncs)
+batch_size: 32         # chronos inference batch (>32 collapses ~10x on this CPU)
+timesfm_batch: 64      # timesfm per-core batch
+context_len: 512       # uniform context window for ALL models (incl. classical)
+results_dir: results/full1

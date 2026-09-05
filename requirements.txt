@@ -1,0 +1,16 @@
+# Core scientific stack
+numpy
+pandas
+pyarrow
+scipy
+matplotlib
+pyyaml
+tqdm
+tabulate
+
+# Classical forecasting baselines (Nixtla)
+statsforecast
+
+# Time series foundation models
+chronos-forecasting   # amazon/chronos-t5-*, amazon/chronos-bolt-*
+timesfm[torch]        # google/timesfm-2.5-200m-pytorch

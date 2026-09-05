@@ -1,0 +1,17 @@
+method,mean_rank
+naive2,11.44
+autoarima,9.368
+autoets,10.215
+autotheta,9.843
+chronos-t5-base,8.815
+chronos-t5-small,9.146
+timesfm-2.5-200m,8.835
+combo/best_single_val,8.702
+combo/equal,8.768
+combo/inv_error_global,8.217
+combo/inv_error_series,7.815
+combo/inv_rank_series,8.005
+combo/median,8.376
+combo/nnls_series,8.179
+combo/trim1_equal,8.172
+combo/oracle_best,2.103

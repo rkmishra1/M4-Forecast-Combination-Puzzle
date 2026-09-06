@@ -137,7 +137,7 @@ observation) before metrics.
 
 ## Hardware notes
 
-Developed on Apple M1 / 8 GB RAM: foundation models run on CPU with small batches;
+Developed on Apple M5 Pro/ 24GB RAM: foundation models run on CPU with small batches;
 forecasts are computed one model at a time with explicit GC between models.
 TimesFM 2.5 (200M) and Chronos-T5 small/base fit comfortably; larger checkpoints
 (Chronos-T5-large, TimesFM-500m) need ≥ 16 GB or a GPU machine.

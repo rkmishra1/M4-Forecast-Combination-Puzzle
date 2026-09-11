@@ -12,7 +12,7 @@
 
 ---
 
-Empirical study for a planned *International Journal of Forecasting* submission:
+Empirical study:
 **does combining time-series foundation models (Chronos, TimesFM) with each other
 and with classical statistical methods beat the best individual model, and how
 close do simple rules get to estimated-weight combinations?**

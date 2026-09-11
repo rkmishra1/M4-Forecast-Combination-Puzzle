@@ -7,7 +7,6 @@
 [![Python 3.12](https://img.shields.io/badge/python-3.12-3776AB.svg?logo=python&logoColor=white)](https://www.python.org/)
 [![Dataset: M4](https://img.shields.io/badge/dataset-M4%20competition-8A2BE2.svg)](https://github.com/Mcompetitions/M4-methods)
 [![Status: pilot](https://img.shields.io/badge/status-pilot%20%2F%20pre--submission-orange.svg)](#pilot--full-study-roadmap)
-[![Target: IJF](https://img.shields.io/badge/target%20venue-Int.%20J.%20Forecasting-1f6feb.svg)](https://www.sciencedirect.com/journal/international-journal-of-forecasting)
 
 </div>
 
